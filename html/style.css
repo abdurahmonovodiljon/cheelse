@@ -1,0 +1,72 @@
+ body {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   max-width: 1150px;
+   padding-right: 20px;
+   margin: 0 auto;
+   background-color: aqua;
+ }
+
+ .menu {
+   display: flex;
+   justify-content: center;
+   padding-left: 200px;
+   gap: 50px;
+ }
+
+ a {
+   gap: 50px;
+   display: flex;
+   justify-content: space-between;
+   text-decoration: none;
+ }
+
+ .name {
+   width: 314px;
+   height: 87px;
+   margin-left: 944px;
+   margin-top: -27px;
+ }
+
+ .logo {
+   display: flex;
+   align-items: center;
+   padding-left: 300px;
+   padding-top: 120px;
+ }
+
+ .you {
+   display: flex;
+   justify-content: center;
+   margin-left: -161px;
+   font-size: 80px;
+ }
+
+ .box {
+   padding-left: 300px;
+ }
+
+ .dolor {
+   display: flex;
+   padding-left: 288px;
+ }
+
+ .rel {
+   margin-top: 24px;
+ }
+
+ .us {
+   padding-right: 200px;
+ }
+
+ .dont {
+   margin-left: 379px;
+   margin-top: -109px;
+ }
+
+ .lorem {
+   margin-left: -215px;
+   padding-top: 78px;
+   width: 1589px;
+ }
